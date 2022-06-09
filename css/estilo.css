@@ -1,0 +1,66 @@
+
+.est {
+	background-color: #529ABB;
+	text-align: center;
+	color: white;
+	font-family: arial;
+}
+
+
+.est1 {
+	text-align: center;
+	font-family: arial;
+
+}
+
+.est2 {
+	background-color: #fcfcfc;
+	text-align: center;
+	font-family: arial;
+
+}
+
+
+.est3 {
+	text-align: center;
+	font-family: arial;
+}
+
+.par {
+text-align: center;
+font-family: arial;
+}
+
+.img {
+	align-items: center;
+	text-align: center;
+	font-family: arial;
+}
+
+
+
+.bot1 {
+	background-color: #008CBE;
+	border: none;
+	color: white;
+	padding: 2px 2px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	margin: 1px 1px;
+	cursor: pointer;
+}
+
+.bot2 {
+	background-color: #529abb;
+	border: none;
+	color: white;
+	padding: 1px 1px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 22px;
+	margin: 1px 1px;
+	cursor: pointer;
+}
